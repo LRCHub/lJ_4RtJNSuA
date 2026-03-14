@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜と幽霊",
+  "base_artist": "YuNi",
+  "createdAt": "2026-03-14T08:46:43.517089Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜と幽霊",
+      "artist": "YuNi",
+      "has_synced": false,
+      "path": "select/pl_01_夜と幽霊_YuNi.txt"
+    }
+  ]
+}
